@@ -33,3 +33,28 @@ console.log(typeof bigNumber);
 // Reference (Non primitive)
 
 // Array, Objects, functions
+
+
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+// Stack (primitive) ,heap (non - primitve)
+
+let myName = "umang"
+let anotherName = myName
+anotherName = "Mittal"
+
+console.log(myName);
+console.log(anotherName);
+
+let userOne = {
+    email: "user@google.com",
+    upi: "user@paytm"
+}
+
+let userTwo = userOne
+userTwo.email = "umang@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
+
+
