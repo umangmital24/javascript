@@ -16,6 +16,8 @@ const hundreds = 1000000
 
 //**************************Maths************************ */
 
-console.log(Maths);
+console.log(Maths.random());
+console.log();
+
 log
 
