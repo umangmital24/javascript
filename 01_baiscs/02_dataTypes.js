@@ -11,13 +11,13 @@ let name = "Umang"
 let Age = 20
 let isLoggedIn = false
 
-// number => 2 to poer 53
+// number => 2 to power 53
 //bigint
 // string =>""
+// boolean => true/false
 // null => standalone value
 //undefined =>
-// symbol => unique
-
+// symbol => unique 
 //object
 
 console.log(typeof Age);

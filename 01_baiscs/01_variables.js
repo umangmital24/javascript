@@ -7,6 +7,7 @@ let accountState;
 
 /*
 prefer not to use var
+beacause of issue in block scope and function scope
 */
 accountEmail = "mittal@google.com"
 accountPassword = "21213131"

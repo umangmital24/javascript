@@ -1,4 +1,10 @@
-// Primitive
+/*
+According to data how they stored in memory datatype divided into two types 
+primitive and non primitve
+*/
+
+
+// Primitive (call by value)
 
 // 7 types: String, Number, Boolean, null, undefined, Symbol, BigInt
 
@@ -37,7 +43,7 @@ console.log(typeof bigNumber);
 
 //+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-// Stack (primitive) ,heap (non - primitve)
+// Stack use in  (primitive) ,heap use in (non - primitve)
 
 let myName = "umang"
 let anotherName = myName

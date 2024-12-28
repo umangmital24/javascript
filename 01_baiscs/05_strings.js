@@ -1,7 +1,9 @@
 const name = "Umang"
 const repoCount = 50
 
-// console.log(name + repoCount + "value");
+// console.log(name + repoCount + "value"); outdated
+
+// use back ticks
 
 console.log(`Hello My name is ${name} and my reposcount is ${repoCount}`);
 
